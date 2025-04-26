@@ -1,0 +1,12 @@
+langchain
+pymupdf
+pymongo
+ollama
+chromadb
+python-dotenv
+fastapi
+uvicorn
+fastapi
+uvicorn
+langchain-community
+langchain-ollama
